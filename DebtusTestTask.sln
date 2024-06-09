@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DebtusTestTask.API", "DebtusTestTask.API\DebtusTestTask.API.csproj", "{858B0320-981D-4328-9A00-4454F2B82572}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebtusTestTask.DB", "DebtusTestTask.DB\DebtusTestTask.DB.csproj", "{9B0FE40D-4948-4304-8EA9-368521F4D358}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{858B0320-981D-4328-9A00-4454F2B82572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858B0320-981D-4328-9A00-4454F2B82572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858B0320-981D-4328-9A00-4454F2B82572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858B0320-981D-4328-9A00-4454F2B82572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B0FE40D-4948-4304-8EA9-368521F4D358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0FE40D-4948-4304-8EA9-368521F4D358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0FE40D-4948-4304-8EA9-368521F4D358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0FE40D-4948-4304-8EA9-368521F4D358}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5F3CDE9-499A-4514-AD51-17CF0CDA2A5C}
+	EndGlobalSection
+EndGlobal
